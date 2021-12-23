@@ -1,0 +1,7 @@
+{
+  "name": "process",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
